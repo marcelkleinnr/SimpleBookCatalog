@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="SimpleBookCatalog.Application/SimpleBookCatalog.Application.csproj" />
+  <Project Path="SimpleBookCatalog.Domain/SimpleBookCatalog.Domain.csproj" />
+  <Project Path="SimpleBookCatalog.Infrastructure/SimpleBookCatalog.Infrastructure.csproj" />
+  <Project Path="SimpleBookCatalog/SimpleBookCatalog.csproj" />
+</Solution>
